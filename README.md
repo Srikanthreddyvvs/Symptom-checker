@@ -7,7 +7,8 @@ An **AI-powered healthcare web app** that analyzes user symptoms and provides po
 ## ⚙️ Tech Stack
 
 - **Frontend:** React.js  
-- **Backend:** Java Spring Boot  
+- **Backend:** Java Spring Boot
+- **Database** MySQL
 - **AI Integration:** Google AI Studio API  
 - **Security:** API key added in **IntelliJ IDEA project environment variables**  
   (not in code or system variables)
