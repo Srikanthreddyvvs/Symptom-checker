@@ -17,7 +17,7 @@ An **AI-powered healthcare web app** that analyzes user symptoms and provides po
 
 ## 🌐 APIs
 
-### **POST /api/symptoms**
+### **POST /api/check-symptom**
 Takes user symptoms and returns AI-generated possible causes and precautions.  
 
 ### **GET /api/history**
